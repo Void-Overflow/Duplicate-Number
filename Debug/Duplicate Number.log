@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\dehla\Desktop\Visual Studio Projects\C++\Duplicate Number\Main.cpp(6,29): warning C4305: 'initializing': truncation from '__int64' to 'int'
+C:\Users\dehla\Desktop\Visual Studio Projects\C++\Duplicate Number\Main.cpp(6,18): warning C4309: 'initializing': truncation of constant value
+  Duplicate Number.vcxproj -> C:\Users\dehla\Desktop\Visual Studio Projects\C++\Duplicate Number\Debug\Duplicate Number.exe
